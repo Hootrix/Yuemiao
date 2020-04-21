@@ -10,7 +10,7 @@
 
 ## 使用
 
-1. 微信客户端登录：https://wx.healthych.com/index.html#/home?fa=wx&t= 
+1. 微信客户端中打开登录：https://wx.healthych.com/index.html#/home?fa=wx&t= 
 
 2. 使用 Fiddler 或者 Charles 拿到登录之后`wx.healthych.com`域名下的任一请求的cookies 请求头`tk`
 
@@ -19,6 +19,8 @@
 3. 修改此处[134L处代码](https://github.com/Hootrix/Yuemiao/blob/master/Yuemiao.py#L134) 配置登录会话
 
 4. [修改城市](https://github.com/Hootrix/Yuemiao/blob/master/Yuemiao.py#L135)
+
+5. python3环境直接运行
 
 
 ## result
