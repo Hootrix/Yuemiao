@@ -16,7 +16,9 @@
 
 如 `fvfe3c1o9O81fdc3b7809397a42fa7ba0_948c572780f01baa99faef0a7a05f213`
 
-3. 修改此处[134L处代码](https://github.com/Hootrix/Yuemiao/blob/master/Yuemiao.py#L134)
+3. 修改此处[134L处代码](https://github.com/Hootrix/Yuemiao/blob/master/Yuemiao.py#L134) 配置登录会话
+
+4. [修改城市](https://github.com/Hootrix/Yuemiao/blob/master/Yuemiao.py#L135)
 
 
 ## result
